@@ -13,7 +13,7 @@ docker build -t stevegoossens/docker-ca .
 ### All default values
 
 ```
-docker run -v /tmp/tls:/tls stevegoossens/docker-certs
+docker run -v /tmp/tls:/tls stevegoossens/docker-ca
 ```
 
 ## Override values
