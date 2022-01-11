@@ -30,5 +30,5 @@ docker run \
     -e CA_EMAIL=dev-ca-admin@bbc.co.uk \
     -e CA_EXPIRE=7305 \
     -e INTERMEDIATE_CA_EXPIRE=3652 \
-    stevegoossens/docker-certs
+    stevegoossens/docker-ca
 ```
